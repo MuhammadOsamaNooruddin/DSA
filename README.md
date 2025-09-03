@@ -7,6 +7,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -40,4 +41,12 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
