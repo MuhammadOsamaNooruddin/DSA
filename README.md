@@ -21,6 +21,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
@@ -55,4 +56,8 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
