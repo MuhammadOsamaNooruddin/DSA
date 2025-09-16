@@ -65,6 +65,7 @@ DSA practice on LeetCode
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
