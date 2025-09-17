@@ -9,6 +9,7 @@ DSA practice on LeetCode
 | [0001-two-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -36,6 +37,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
@@ -73,4 +75,8 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
