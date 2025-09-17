@@ -25,6 +25,7 @@ DSA practice on LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
 ## Union Find
 |  |
 | ------- |
@@ -79,4 +81,8 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
