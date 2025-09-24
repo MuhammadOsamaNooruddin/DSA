@@ -11,6 +11,7 @@ DSA practice on LeetCode
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
 | [2350-find-closest-number-to-zero](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -92,6 +93,7 @@ DSA practice on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
