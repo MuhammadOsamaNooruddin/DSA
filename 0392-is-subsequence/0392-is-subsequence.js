@@ -5,8 +5,7 @@
  */
 var isSubsequence = function(s, t) {
 
-    // if(!t.length) return false
-    if(s.length === "" && t.length === "") return true
+    if(s === "" && t === "") return true
     if(s.length > t.length) return false;
     
     let pointer = 0;
