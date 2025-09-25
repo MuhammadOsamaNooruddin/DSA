@@ -18,6 +18,7 @@ DSA practice on LeetCode
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@ DSA practice on LeetCode
 | [0049-group-anagrams](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
@@ -116,6 +118,7 @@ DSA practice on LeetCode
 | [0049-group-anagrams](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -135,6 +138,11 @@ DSA practice on LeetCode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1297-maximum-number-of-balloons) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
