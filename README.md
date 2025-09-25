@@ -9,6 +9,7 @@ DSA practice on LeetCode
 | [0001-two-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -70,6 +71,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -105,4 +107,8 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
