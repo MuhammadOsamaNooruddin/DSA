@@ -16,6 +16,7 @@ DSA practice on LeetCode
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
 | [2350-find-closest-number-to-zero](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -27,6 +28,7 @@ DSA practice on LeetCode
 | [0013-roman-to-integer](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -101,6 +103,7 @@ DSA practice on LeetCode
 | ------- |
 | [0056-merge-intervals](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
