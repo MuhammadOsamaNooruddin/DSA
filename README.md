@@ -27,6 +27,7 @@ DSA practice on LeetCode
 | [0013-roman-to-integer](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ DSA practice on LeetCode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
 | [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
