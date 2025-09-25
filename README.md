@@ -29,6 +29,7 @@ DSA practice on LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
 ## String
@@ -40,6 +41,7 @@ DSA practice on LeetCode
 | [0020-valid-parentheses](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
@@ -106,6 +108,7 @@ DSA practice on LeetCode
 | [0056-merge-intervals](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
