@@ -35,6 +35,7 @@ DSA practice on LeetCode
 | [0014-longest-common-prefix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
@@ -52,6 +53,7 @@ DSA practice on LeetCode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
