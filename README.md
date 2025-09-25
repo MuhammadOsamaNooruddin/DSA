@@ -8,6 +8,7 @@ DSA practice on LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0056-merge-intervals) |
@@ -26,6 +27,7 @@ DSA practice on LeetCode
 | [0001-two-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@ DSA practice on LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
