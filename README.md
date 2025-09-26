@@ -22,6 +22,7 @@ DSA practice on LeetCode
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
+| [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ DSA practice on LeetCode
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -121,6 +123,7 @@ DSA practice on LeetCode
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
