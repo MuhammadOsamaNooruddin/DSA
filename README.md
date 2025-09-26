@@ -11,6 +11,7 @@ DSA practice on LeetCode
 | [0014-longest-common-prefix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0054-spiral-matrix) |
@@ -75,6 +76,7 @@ DSA practice on LeetCode
 | [0011-container-with-most-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0125-valid-palindrome) |
@@ -114,6 +116,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +142,7 @@ DSA practice on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
@@ -164,4 +168,8 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
