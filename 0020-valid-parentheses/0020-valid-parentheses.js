@@ -4,16 +4,18 @@
  */
 var isValid = function(s) {
 
-    if(s.length < 2) return false
-
-    const stack = [];
-   const map = { ')': '(', '}': '{', ']': '[' };
+    let stack = [];
+    let map = {
+        ")" : "(",
+        "}" : "{",
+        "]" : "[",
+    };
 
     for(let char of s){
-        if(char in map){
-            if(stack.pop() !== map[char]) return false;
+        if(map[char]){
+            if(map[char] !== stack.pop()) return false
         }else{
-            stack.push(char)
+            stack.push(char);
         }
     }
 
