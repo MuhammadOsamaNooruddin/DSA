@@ -31,6 +31,7 @@ DSA practice on LeetCode
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -71,10 +72,12 @@ DSA practice on LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +121,7 @@ DSA practice on LeetCode
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
