@@ -27,6 +27,7 @@ DSA practice on LeetCode
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -69,6 +70,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
