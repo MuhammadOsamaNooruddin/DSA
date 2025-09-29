@@ -28,6 +28,7 @@ DSA practice on LeetCode
 | [0228-summary-ranges](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -122,6 +123,7 @@ DSA practice on LeetCode
 | [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -178,4 +180,5 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
