@@ -20,7 +20,6 @@ var checkInclusion = function(s1, s2) {
     while(right < s2.length){
 
         if(right - left + 1 === s1.length){
-        //    console.log(s2.slice(left,right+1))
             let isTrue = helperFunction(s2.slice(left,right+1));
             if(isTrue) return true;
             else copyfreqS1 = new Map(freqS1);
