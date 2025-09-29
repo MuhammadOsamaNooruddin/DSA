@@ -18,14 +18,12 @@ var lengthOfLongestSubstring = function(s) {
             left++
         }
 
-        if(!mySet.has(s[right])){
-            mySet.add(s[right])
-        }
-
-        longest = Math.max(longest, right - left + 1)
+        mySet.add(s[right]);
+        longest = Math.max(longest,right - left + 1);
         right++
 
     }
 
     return longest
+
 };
