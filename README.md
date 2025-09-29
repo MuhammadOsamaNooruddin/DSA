@@ -49,6 +49,7 @@ DSA practice on LeetCode
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1297-maximum-number-of-balloons) |
 ## String
@@ -67,6 +68,7 @@ DSA practice on LeetCode
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1764-maximum-repeating-substring](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1764-maximum-repeating-substring) |
@@ -76,6 +78,7 @@ DSA practice on LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -99,6 +102,7 @@ DSA practice on LeetCode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
