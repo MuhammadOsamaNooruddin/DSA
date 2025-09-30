@@ -120,6 +120,7 @@ DSA practice on LeetCode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -150,6 +151,7 @@ DSA practice on LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -160,6 +162,7 @@ DSA practice on LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0234-palindrome-linked-list) |
