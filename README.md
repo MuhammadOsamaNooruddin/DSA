@@ -102,6 +102,7 @@ DSA practice on LeetCode
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
@@ -142,6 +143,7 @@ DSA practice on LeetCode
 | [0042-trapping-rain-water](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
 ## Linked List
@@ -150,11 +152,13 @@ DSA practice on LeetCode
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
