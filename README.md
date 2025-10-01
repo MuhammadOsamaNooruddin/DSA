@@ -32,6 +32,7 @@ DSA practice on LeetCode
 | [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0739-daily-temperatures) |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -178,6 +179,7 @@ DSA practice on LeetCode
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -205,6 +207,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -218,4 +221,24 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0155-min-stack) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
