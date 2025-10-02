@@ -18,6 +18,8 @@ var isAnagram = function(s, t) {
         if(myMap.has(n)){
             myMap.set(n, myMap.get(n) - 1);
             if(myMap.get(n) === 0 ) myMap.delete(n)
+        }else{
+            return false
         }
     }
 
