@@ -30,6 +30,7 @@ DSA practice on LeetCode
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
@@ -51,6 +52,7 @@ DSA practice on LeetCode
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
@@ -185,6 +187,7 @@ DSA practice on LeetCode
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -211,6 +214,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
 | [1297-maximum-number-of-balloons](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1297-maximum-number-of-balloons) |
@@ -219,6 +223,7 @@ DSA practice on LeetCode
 | ------- |
 | [0053-maximum-subarray](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
@@ -236,6 +241,7 @@ DSA practice on LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -245,6 +251,7 @@ DSA practice on LeetCode
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -255,4 +262,8 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
