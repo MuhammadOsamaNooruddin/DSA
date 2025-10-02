@@ -1,29 +1,43 @@
+/**
+ * @param {number[][]} matrix
+ * @return {number[]}
+ */
 var spiralOrder = function(matrix) {
-    const result = [];
-    let top = 0, bottom = matrix.length - 1;
-    let left = 0, right = matrix[0].length - 1;
+   
+    let left = 0;
+    let top = 0;
+    let right = matrix[0].length - 1;
+    let bottom = matrix.length - 1;
 
-    while (top <= bottom && left <= right) {
-        // Top row
-        for (let i = left; i <= right; i++) result.push(matrix[top][i]);
+    let result = [];
+
+    while(top <= bottom && left <= right){
+
+        for(let i=left; i <= right; i++){
+            result.push(matrix[top][i])
+        }
         top++;
 
-        // Right column
-        for (let i = top; i <= bottom; i++) result.push(matrix[i][right]);
-        right--;
-
-        // Bottom row (only if there’s a new row)
-        if (top <= bottom) {
-            for (let i = right; i >= left; i--) result.push(matrix[bottom][i]);
-            bottom--;
+        for(let i=top; i<=bottom; i++){
+            result.push(matrix[i][right])
         }
-
-        // Left column (only if there’s a new column)
-        if (left <= right) {
-            for (let i = bottom; i >= top; i--) result.push(matrix[i][left]);
-            left++;
+        right--
+        
+        if(top <= bottom){
+            for(let i=right; i>=left;i--){
+                result.push(matrix[bottom][i])
+            }
         }
+        bottom--;
+        
+        if(left <= right){
+            for(let i=bottom; i >= top; i--){
+                result.push(matrix[i][left])
+            }
+        }
+        left++
+
     }
 
-    return result;
+    return result
 };
