@@ -30,16 +30,22 @@ var reorderList = function(head) {
         curr = nextTemp;
     }
     
-    let first = head;
-    let second = prev;
+    let h1 = head;
+    let h2 = prev;
 
-    while(second){
-        let temp1 = first.next;
-        let temp2 = second.next;
-        first.next = second;
-        second.next = temp1;
-        first = temp1;
-        second = temp2;
+    while(h2){
+
+        let temp = h1.next;
+        h1.next = h2;
+        h1 = h2;
+        h2 = temp
+
+        // let temp1 = h1.next;
+        // let temp2 = h2.next;
+        // h1.next = h2;
+        // second.next = temp1;
+        // h1 = temp1;
+        // h2 = temp2;
     }
 
 };
