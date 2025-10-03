@@ -4,10 +4,9 @@
  */
 var containsDuplicate = function(nums) {
     
-    if(nums.length === 0) return false
-    // if(nums.length === 1) return true
+    if(nums.length === 0 || nums.length === 1) return false
 
-    let mySet = new Set()
+    let mySet = new Set();
 
     for(let i=0; i<nums.length; i++){
         if(mySet.has(nums[i])) return true;
@@ -15,5 +14,4 @@ var containsDuplicate = function(nums) {
     }
 
     return false
-
 };
