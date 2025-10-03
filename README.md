@@ -32,6 +32,7 @@ DSA practice on LeetCode
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
@@ -59,6 +60,7 @@ DSA practice on LeetCode
 | [0349-intersection-of-two-arrays](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0782-jewels-and-stones) |
@@ -99,6 +101,7 @@ DSA practice on LeetCode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
