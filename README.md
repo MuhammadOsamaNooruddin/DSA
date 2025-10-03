@@ -49,6 +49,7 @@ DSA practice on LeetCode
 | [0049-group-anagrams](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
@@ -109,6 +110,7 @@ DSA practice on LeetCode
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +171,7 @@ DSA practice on LeetCode
 | [0024-swap-nodes-in-pairs](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0206-reverse-linked-list) |
