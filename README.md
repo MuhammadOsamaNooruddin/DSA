@@ -147,6 +147,7 @@ DSA practice on LeetCode
 | [0013-roman-to-integer](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0202-happy-number) |
 ## Matrix
@@ -159,6 +160,7 @@ DSA practice on LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0209-minimum-size-subarray-sum) |
