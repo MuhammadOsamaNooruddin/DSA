@@ -126,6 +126,7 @@ DSA practice on LeetCode
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0202-happy-number) |
@@ -197,6 +198,7 @@ DSA practice on LeetCode
 | [0141-linked-list-cycle](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0234-palindrome-linked-list) |
@@ -221,6 +223,7 @@ DSA practice on LeetCode
 | [0056-merge-intervals](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0242-valid-anagram) |
@@ -260,6 +263,7 @@ DSA practice on LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
@@ -285,6 +289,7 @@ DSA practice on LeetCode
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
