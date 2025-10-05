@@ -3,22 +3,41 @@
  * @return {number[]}
  */
 var sortArray = function(arr) {
-  if (arr.length <= 1) return arr;
+  if(arr.length <= 1) return arr;
 
-    let mid = Math.floor(arr.length / 2);
-    let left = sortArray(arr.slice(0,mid))
-    let right = sortArray(arr.slice(mid))
+  let mid = Math.floor(arr.length / 2);
+  let left = sortArray(arr.slice(0, mid));
+  let right = sortArray(arr.slice(mid));
 
-    return mergeSort(left,right)
+    return mergehelper(left,right);
 
 };
 
 
-function mergeSort(left,right){
-    let sortedArr = [];
-    while (left.length && right.length) {
-        if (left[0] < right[0]) sortedArr.push(left.shift());
-        else sortedArr.push(right.shift());
+function mergehelper(left,right){
+
+    let result = [];
+    let i=0;
+    let j=0;
+
+    while(i<left.length && j<right.length){
+        if(left[i] < right[j]){
+            result.push(left[i]);
+            i++
+        }else{
+            result.push(right[j]);
+            j++
+        }
     }
-    return [...sortedArr, ...left, ...right];
+
+    while(i < left.length){
+        result.push(left[i]);
+        i++
+    }
+
+    while(j < right.length){
+        result.push(right[j]);
+        j++
+    }
+    return result
 }
