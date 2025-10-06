@@ -5,9 +5,18 @@
  */
 var join = function(arr1, arr2) {
 
-    let obj = {};
-    arr1.forEach((val) => obj[val.id] = val);
-    arr2.forEach((val) => obj[val.id] = { ...(obj[val.id] ?? {} ), ...val }) 
+    let combinedArray = arr1.concat(arr2);
+    let merged = {};
 
-    return Object.values(obj)
+    combinedArray.forEach((obj) => {
+        const id = obj.id;
+        if(!merged[id]){
+            merged[id] = { ...obj };
+        }else{
+            merged[id] = { ...merged[id], ...obj }
+        }
+    })
+
+    return Object.values(merged)
+   
 };
