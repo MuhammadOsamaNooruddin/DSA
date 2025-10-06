@@ -4,9 +4,6 @@
  */
 var lengthOfLongestSubstring = function(s) {
 
-    if(!s.length) return 0;
-    if(s.length === 1)return 1;
-
     let seen = new Set();
     let left = 0;
     let right = 0;
@@ -14,16 +11,17 @@ var lengthOfLongestSubstring = function(s) {
 
     while(right < s.length){
 
-        while(seen.has(s[right])){
+        if(!seen.has(s[right])){
+            seen.add(s[right]);
+            right++
+        }else{
             seen.delete(s[left]);
             left++
         }
 
-        seen.add(s[right]);
-        longest = Math.max(longest, right - left + 1);
-        right++;
+        longest = Math.max(longest, right - left )
 
     }
 
-    return longest    
-};
+    return longest
+}
