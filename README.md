@@ -189,6 +189,7 @@ DSA practice on LeetCode
 | [0002-add-two-numbers](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -262,6 +263,7 @@ DSA practice on LeetCode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0169-majority-element) |
@@ -283,12 +285,14 @@ DSA practice on LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/MuhammadOsamaNooruddin/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
