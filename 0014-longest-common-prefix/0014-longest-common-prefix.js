@@ -21,24 +21,46 @@ var longestCommonPrefix = function(strs) {
 
     // return res
 
-    let minLengthStr = strs[0];
+    // let minLengthStr = strs[0];
+    // for(let s of strs){
+    //     if(minLengthStr.length > s.length){
+    //         minLengthStr = s
+    //     }
+    // }
+
+    // let i = 0;
+    // let res = "";
+
+    // while(i < minLengthStr.length){
+    //     let char = strs[0][i];
+    //     for(let str of strs){
+    //         if(str[i] !== char){
+    //             return res;
+    //         }
+    //     }
+    //     res += char
+    //     i++
+    // }
+
+    // return res
+
+    let minLength = strs[0].length;
+
     for(let s of strs){
-        if(minLengthStr.length > s.length){
-            minLengthStr = s
+        if(s.length < minLength){
+            minLength = s.length
         }
     }
 
-    let i = 0;
     let res = "";
+    let i = 0;
 
-    while(i < minLengthStr.length){
+    while( i < minLength ){
         let char = strs[0][i];
-        for(let str of strs){
-            if(str[i] !== char){
-                return res;
-            }
+        for(let j=1; j<strs.length;j++){
+            if(strs[j][i] !== char) return res;
         }
-        res += char
+        res += char;
         i++
     }
 
