@@ -4,40 +4,22 @@
  */
 var groupAnagrams = function(strs) {
 
-    // let sorted = strs.map((str) => str.split("").sort().join(""));
+    if(strs.length === 0) return [];
 
-    // let map = {};
-
-    // for(let i=0; i < sorted.length; i++){
-    //     if(!map[sorted[i]]){
-    //         map[sorted[i]] = [strs[i]];
-    //     }else{
-    //         map[sorted[i]].push(strs[i])
-    //     }
-    // }
-
-    // return Object.values(map)
-
-    let map = {};
+    let myMap = new Map();
 
     for(let str of strs){
 
         let count = new Array(26).fill(0);
-
-        for(let char of str){
-            count[char.charCodeAt(0) - 97]++;
+        for(let s of str){
+            let char = s.charCodeAt(0) - 97;
+            count[char]++;
         }
-
         let key = count.join("#");
-
-        if(map[key]){
-            map[key].push(str);
-        }else{
-            map[key] = [str]
-        }
-        
+        if(!myMap.has(key)) myMap.set(key,[]);
+        myMap.get(key).push(str)
     }
 
-    return Object.values(map)
+    return Array.from(myMap.values())
 
-};
+}
