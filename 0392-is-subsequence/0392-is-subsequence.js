@@ -11,7 +11,7 @@ var isSubsequence = function(s, t) {
     let pointer = 0;
     let found = 0;
 
-    for(let i=0; i<t.length; i++){
+    for(let i=0; i< t.length; i++){
 
         if(s[pointer] === t[i]){
             pointer++;
@@ -19,7 +19,6 @@ var isSubsequence = function(s, t) {
         }
 
     }
-
-    return found === s.length
-
+    
+    return s.length === found
 };
